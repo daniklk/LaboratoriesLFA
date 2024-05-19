@@ -7,9 +7,9 @@
 
 ## Theory
  A formal language can be considered to be the media or the format used to convey information from a sender entity to the one that receives it. The usual components of a language are:
-*The alphabet: Set of valid characters;
-*The vocabulary: Set of valid words;
-*The grammar: Set of rules/constraints over the language.
+#### *The alphabet: Set of valid characters;
+#### *The vocabulary: Set of valid words;
+#### *The grammar: Set of rules/constraints over the language.
     Now these components can be established in an infinite amount of configurations, which actually means that whenever a language is being created, it's components should be selected in a way to make it as appropriate for it's use case as possible. Of course sometimes it is a matter of preference, that's why we ended up with lots of natural/programming/markup languages which might accomplish the same thing.
 
 ## Objectives:
